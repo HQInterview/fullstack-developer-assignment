@@ -28,6 +28,13 @@ Develop a web page which shows active auction items with winning bids. Make the 
 
 Please use React.js for the page.
 
+**The frontend page should:**
+
+* Show list of available rooms for auction ordered by time remaining to the end of auction
+* Possibility to bid for a room
+* Work without page refresh, all activity should be dynamically loaded with APIs
+* Show list of ended auctions with winning bid
+
 
 ## Areas we would be evaluating
 * Is there documentation?
